@@ -4,7 +4,7 @@
 
 **Step 2:** Apply approperiate mesh on the model
 
-**Step 3:** Right click model to insert the "Named Selection" tool as shown in figure below
+**Step 3:** Right click "model" to insert the "Named Selection" tool as shown in figure below
 <p align="center">
   <img src="https://user-images.githubusercontent.com/115262940/221674291-1ff1236a-5995-416d-a8b3-ac16ad530af2.png" />
 </p>
@@ -22,7 +22,7 @@
 </p>
 
 
-**Step 6:** Then go to the "Automation" pannel, and select "Scripting"
+**Step 6:** Go to the "Automation" tab, and select "Scripting"
 <p align="center">
   <img src="https://user-images.githubusercontent.com/115262940/221678150-7e54334f-2182-4337-9c12-ee93dcd44785.png" />
 </p>
