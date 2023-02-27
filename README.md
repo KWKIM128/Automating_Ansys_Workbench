@@ -28,4 +28,6 @@
 </p>
 
 
-**Step 7:** Copy paste the script into the Ansys script and run the program
+**Step 7:** Copy paste the script into the editor, and chjange the value of Force to the force your group has decided.
+
+**Step 8:** Run the program 
