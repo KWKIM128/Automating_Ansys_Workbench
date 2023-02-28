@@ -1,5 +1,5 @@
 # Finding the failing stress
-# sopy paste this code to ansys script
+# copy paste this code to ansys script
 
 Model = ExtAPI.DataModel.Project.Model
 Geometry = Model.Geometry
@@ -10,7 +10,7 @@ Static_Sol = Analysis.Solution
 UTS = 45 # in MPa. 
 
 # inital force
-Force = -1000 # change to the force you found but don't change the negative sign
+Force = -700 # change to the force to the value you found but don't change the negative sign
 
 
 # Do not change code below
