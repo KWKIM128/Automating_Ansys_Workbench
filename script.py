@@ -14,7 +14,7 @@ Force = -700 # change to the force to the value you found but don't change the n
 Fmax = -2000 # change to approperiate maximum load
 
 # Do not change code below
-while(Force < Fmax):
+while(Force <= Fmax):
     Load = Analysis.AddForce()
     Load.Location = ExtAPI.DataModel.GetObjectsByName("Load")[0]
     Load.DefineBy = LoadDefineBy.Components
@@ -22,3 +22,5 @@ while(Force < Fmax):
    
     Eqv = Static_Sol.AddEquivalentStress()
     Static_Sol.Solve(True)
+    
+    Force -= 0.01
