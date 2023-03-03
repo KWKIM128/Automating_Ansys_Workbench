@@ -1,6 +1,6 @@
 # Automating_Ansys_Workbench
 
-**This script will increase the force by 0.01 in Ansys Workbench, until the component fails**
+**This script will increase the force by 0.01 in Ansys Workbench**
 
 **Step 1:** Apply approperiate boundary conditions to the model
 
