@@ -11,7 +11,7 @@ UTS = 45 # in MPa.
 
 # inital force
 Force = -700 # change to the force to the value you found but don't change the negative sign
-Fmax = -2000
+Fmax = -2000 # change to approperiate maximum load
 
 # Do not change code below
 while(Force < Fmax):
